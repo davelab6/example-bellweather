@@ -3,13 +3,13 @@
 
   <hhea>
     <tableVersion value="1.0"/>
-    <ascent value="2014"/>
+    <ascent value="2000"/>
     <descent value="-560"/>
     <lineGap value="0"/>
-    <advanceWidthMax value="2800"/>
-    <minLeftSideBearing value="-116"/>
-    <minRightSideBearing value="-112"/>
-    <xMaxExtent value="2725"/>
+    <advanceWidthMax value="2479"/>
+    <minLeftSideBearing value="0"/>
+    <minRightSideBearing value="-228"/>
+    <xMaxExtent value="2398"/>
     <caretSlopeRise value="1"/>
     <caretSlopeRun value="0"/>
     <caretOffset value="0"/>
@@ -18,7 +18,7 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="450"/>
+    <numberOfHMetrics value="326"/>
   </hhea>
 
 </ttFont>

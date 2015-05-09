@@ -4,19 +4,19 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="1.003"/>
-    <checkSumAdjustment value="0x5031c173"/>
+    <fontRevision value="1.0"/>
+    <checkSumAdjustment value="0x24283948"/>
     <magicNumber value="0x5f0f3cf5"/>
-    <flags value="00000000 00000011"/>
+    <flags value="00000000 00000000"/>
     <unitsPerEm value="2048"/>
-    <created value="Mon Feb 25 14:05:00 2013"/>
-    <modified value="Tue Feb 26 07:20:57 2013"/>
-    <xMin value="-116"/>
+    <created value="Thu Jan  1 00:00:00 1970"/>
+    <modified value="Thu Jan  1 00:00:00 1970"/>
+    <xMin value="-95"/>
     <yMin value="-560"/>
-    <xMax value="2725"/>
+    <xMax value="2303"/>
     <yMax value="2000"/>
     <macStyle value="00000000 00000000"/>
-    <lowestRecPPEM value="3"/>
+    <lowestRecPPEM value="0"/>
     <fontDirectionHint value="2"/>
     <indexToLocFormat value="0"/>
     <glyphDataFormat value="0"/>
