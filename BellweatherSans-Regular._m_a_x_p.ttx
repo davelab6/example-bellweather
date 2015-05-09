@@ -3,7 +3,7 @@
 
   <maxp>
     <tableVersion value="0x5000"/>
-    <numGlyphs value="450"/>
+    <numGlyphs value="326"/>
   </maxp>
 
 </ttFont>

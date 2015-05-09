@@ -2,456 +2,332 @@
 <ttFont ttLibVersion="2.5">
 
   <hmtx>
-    <mtx name=".notdef" width="1872" lsb="227"/>
-    <mtx name=".null" width="0" lsb="0"/>
-    <mtx name="A" width="1407" lsb="20"/>
-    <mtx name="AE" width="1860" lsb="-73"/>
-    <mtx name="AEacute" width="1860" lsb="-73"/>
-    <mtx name="Aacute" width="1407" lsb="20"/>
-    <mtx name="Abreve" width="1407" lsb="20"/>
-    <mtx name="Acircumflex" width="1407" lsb="20"/>
-    <mtx name="Adieresis" width="1407" lsb="20"/>
-    <mtx name="Agrave" width="1407" lsb="20"/>
-    <mtx name="Amacron" width="1407" lsb="20"/>
-    <mtx name="Aogonek" width="1407" lsb="20"/>
-    <mtx name="Aring" width="1407" lsb="20"/>
-    <mtx name="Atilde" width="1407" lsb="20"/>
-    <mtx name="B" width="1339" lsb="193"/>
-    <mtx name="C" width="1313" lsb="94"/>
-    <mtx name="CR" width="0" lsb="0"/>
-    <mtx name="Cacute" width="1313" lsb="94"/>
-    <mtx name="Ccaron" width="1313" lsb="94"/>
-    <mtx name="Ccedilla" width="1313" lsb="94"/>
-    <mtx name="Ccircumflex" width="1313" lsb="94"/>
-    <mtx name="Cdotaccent" width="1313" lsb="94"/>
-    <mtx name="D" width="1472" lsb="193"/>
-    <mtx name="DC1" width="0" lsb="0"/>
-    <mtx name="DC2" width="0" lsb="0"/>
-    <mtx name="DC3" width="0" lsb="0"/>
-    <mtx name="DC4" width="0" lsb="0"/>
-    <mtx name="DEL" width="0" lsb="0"/>
-    <mtx name="DLE" width="0" lsb="0"/>
-    <mtx name="Dcaron" width="1472" lsb="193"/>
-    <mtx name="Dcroat" width="1472" lsb="65"/>
-    <mtx name="Delta" width="1577" lsb="54"/>
-    <mtx name="E" width="1217" lsb="193"/>
-    <mtx name="Eacute" width="1217" lsb="193"/>
-    <mtx name="Ebreve" width="1217" lsb="193"/>
-    <mtx name="Ecaron" width="1217" lsb="193"/>
-    <mtx name="Ecircumflex" width="1217" lsb="193"/>
-    <mtx name="Edieresis" width="1217" lsb="193"/>
-    <mtx name="Edotaccent" width="1217" lsb="193"/>
-    <mtx name="Egrave" width="1217" lsb="193"/>
-    <mtx name="Emacron" width="1217" lsb="193"/>
-    <mtx name="Eng" width="1584" lsb="192"/>
-    <mtx name="Eogonek" width="1217" lsb="193"/>
-    <mtx name="Eth" width="1472" lsb="65"/>
-    <mtx name="Euro" width="1505" lsb="113"/>
-    <mtx name="F" width="1083" lsb="193"/>
-    <mtx name="G" width="1433" lsb="98"/>
-    <mtx name="Gbreve" width="1433" lsb="98"/>
-    <mtx name="Gcircumflex" width="1433" lsb="98"/>
-    <mtx name="Gcommaaccent" width="1433" lsb="98"/>
-    <mtx name="Gdotaccent" width="1433" lsb="98"/>
-    <mtx name="H" width="1552" lsb="193"/>
-    <mtx name="HT" width="0" lsb="0"/>
-    <mtx name="Hbar" width="1563" lsb="8"/>
-    <mtx name="Hcircumflex" width="1552" lsb="193"/>
-    <mtx name="I" width="640" lsb="206"/>
-    <mtx name="IJ" width="1353" lsb="206"/>
-    <mtx name="Iacute" width="640" lsb="192"/>
-    <mtx name="Ibreve" width="640" lsb="-23"/>
-    <mtx name="Icircumflex" width="640" lsb="-37"/>
-    <mtx name="Idieresis" width="640" lsb="-75"/>
-    <mtx name="Idotaccent" width="640" lsb="172"/>
-    <mtx name="Igrave" width="640" lsb="-39"/>
-    <mtx name="Imacron" width="640" lsb="49"/>
-    <mtx name="Iogonek" width="640" lsb="42"/>
-    <mtx name="Itilde" width="640" lsb="-95"/>
-    <mtx name="J" width="713" lsb="-42"/>
-    <mtx name="Jcircumflex" width="713" lsb="-42"/>
-    <mtx name="K" width="1371" lsb="193"/>
-    <mtx name="Kcommaaccent" width="1371" lsb="193"/>
-    <mtx name="L" width="1080" lsb="193"/>
-    <mtx name="LF" width="0" lsb="0"/>
-    <mtx name="Lacute" width="1080" lsb="177"/>
-    <mtx name="Lcaron" width="1080" lsb="193"/>
-    <mtx name="Lcommaaccent" width="1080" lsb="193"/>
-    <mtx name="Ldot" width="1357" lsb="193"/>
-    <mtx name="Lslash" width="1080" lsb="17"/>
-    <mtx name="M" width="1923" lsb="133"/>
-    <mtx name="N" width="1556" lsb="192"/>
-    <mtx name="Nacute" width="1556" lsb="192"/>
-    <mtx name="Ncaron" width="1556" lsb="192"/>
-    <mtx name="Ncommaaccent" width="1556" lsb="192"/>
-    <mtx name="Ntilde" width="1556" lsb="192"/>
-    <mtx name="O" width="1569" lsb="99"/>
-    <mtx name="OE" width="2063" lsb="99"/>
-    <mtx name="Oacute" width="1569" lsb="99"/>
-    <mtx name="Obreve" width="1569" lsb="99"/>
-    <mtx name="Ocircumflex" width="1569" lsb="99"/>
-    <mtx name="Odieresis" width="1569" lsb="99"/>
-    <mtx name="Ograve" width="1569" lsb="99"/>
-    <mtx name="Ohungarumlaut" width="1569" lsb="99"/>
-    <mtx name="Omacron" width="1569" lsb="99"/>
-    <mtx name="Omega" width="1804" lsb="193"/>
-    <mtx name="Oslash" width="1569" lsb="99"/>
-    <mtx name="Otilde" width="1569" lsb="99"/>
-    <mtx name="P" width="1270" lsb="193"/>
-    <mtx name="Q" width="1569" lsb="99"/>
-    <mtx name="R" width="1367" lsb="193"/>
-    <mtx name="RS" width="0" lsb="0"/>
-    <mtx name="Racute" width="1367" lsb="193"/>
-    <mtx name="Rcaron" width="1367" lsb="193"/>
-    <mtx name="Rcommaaccent" width="1367" lsb="193"/>
-    <mtx name="S" width="1132" lsb="124"/>
-    <mtx name="Sacute" width="1132" lsb="124"/>
-    <mtx name="Scaron" width="1132" lsb="124"/>
-    <mtx name="Scedilla" width="1132" lsb="124"/>
-    <mtx name="Scircumflex" width="1132" lsb="124"/>
-    <mtx name="T" width="1303" lsb="62"/>
-    <mtx name="Tbar" width="1303" lsb="62"/>
-    <mtx name="Tcaron" width="1303" lsb="62"/>
-    <mtx name="Thorn" width="1262" lsb="193"/>
-    <mtx name="U" width="1463" lsb="158"/>
-    <mtx name="US" width="0" lsb="0"/>
-    <mtx name="Uacute" width="1463" lsb="158"/>
-    <mtx name="Ubreve" width="1463" lsb="158"/>
-    <mtx name="Ucircumflex" width="1463" lsb="158"/>
-    <mtx name="Udieresis" width="1463" lsb="158"/>
-    <mtx name="Ugrave" width="1463" lsb="158"/>
-    <mtx name="Uhungarumlaut" width="1463" lsb="158"/>
-    <mtx name="Umacron" width="1463" lsb="158"/>
-    <mtx name="Uogonek" width="1463" lsb="158"/>
-    <mtx name="Uring" width="1463" lsb="158"/>
-    <mtx name="Utilde" width="1463" lsb="158"/>
-    <mtx name="V" width="1355" lsb="21"/>
-    <mtx name="W" width="1918" lsb="21"/>
-    <mtx name="Wacute" width="1918" lsb="21"/>
-    <mtx name="Wcircumflex" width="1918" lsb="21"/>
-    <mtx name="Wdieresis" width="1918" lsb="21"/>
-    <mtx name="Wgrave" width="1918" lsb="21"/>
-    <mtx name="X" width="1314" lsb="42"/>
-    <mtx name="Y" width="1264" lsb="21"/>
-    <mtx name="Yacute" width="1264" lsb="21"/>
-    <mtx name="Ycircumflex" width="1264" lsb="21"/>
-    <mtx name="Ydieresis" width="1264" lsb="21"/>
-    <mtx name="Ygrave" width="1264" lsb="21"/>
-    <mtx name="Z" width="1294" lsb="88"/>
-    <mtx name="Zacute" width="1294" lsb="88"/>
-    <mtx name="Zcaron" width="1294" lsb="88"/>
-    <mtx name="Zdotaccent" width="1294" lsb="88"/>
-    <mtx name="a" width="1131" lsb="93"/>
-    <mtx name="aacute" width="1131" lsb="93"/>
-    <mtx name="abreve" width="1131" lsb="93"/>
-    <mtx name="acircumflex" width="1131" lsb="93"/>
-    <mtx name="acute" width="594" lsb="49"/>
-    <mtx name="acute.cap" width="597" lsb="57"/>
-    <mtx name="adieresis" width="1131" lsb="93"/>
-    <mtx name="ae" width="1780" lsb="93"/>
-    <mtx name="aeacute" width="1780" lsb="93"/>
-    <mtx name="afii61352" width="2587" lsb="193"/>
-    <mtx name="agrave" width="1131" lsb="93"/>
-    <mtx name="amacron" width="1131" lsb="93"/>
-    <mtx name="ampersand" width="1532" lsb="146"/>
-    <mtx name="aogonek" width="1131" lsb="93"/>
-    <mtx name="approxequal" width="1438" lsb="214"/>
-    <mtx name="aring" width="1131" lsb="93"/>
-    <mtx name="asciicircum" width="1363" lsb="184"/>
-    <mtx name="asciitilde" width="1438" lsb="215"/>
-    <mtx name="asterisk" width="1208" lsb="116"/>
-    <mtx name="at" width="2218" lsb="212"/>
-    <mtx name="atilde" width="1131" lsb="93"/>
-    <mtx name="b" width="1238" lsb="165"/>
-    <mtx name="backslash" width="854" lsb="41"/>
-    <mtx name="bar" width="855" lsb="325"/>
-    <mtx name="braceleft" width="972" lsb="74"/>
-    <mtx name="braceright" width="972" lsb="169"/>
-    <mtx name="bracketleft" width="837" lsb="184"/>
-    <mtx name="bracketright" width="837" lsb="171"/>
-    <mtx name="breve" width="784" lsb="47"/>
-    <mtx name="breve.cap" width="781" lsb="47"/>
-    <mtx name="brokenbar" width="855" lsb="325"/>
-    <mtx name="bullet" width="855" lsb="206"/>
-    <mtx name="c" width="1002" lsb="96"/>
-    <mtx name="cacute" width="1002" lsb="96"/>
-    <mtx name="caron" width="824" lsb="46"/>
-    <mtx name="caron.cap" width="759" lsb="47"/>
-    <mtx name="caronvertical" width="339" lsb="49"/>
-    <mtx name="ccaron" width="1002" lsb="96"/>
-    <mtx name="ccedilla" width="1002" lsb="96"/>
-    <mtx name="ccircumflex" width="1002" lsb="96"/>
-    <mtx name="cdotaccent" width="1002" lsb="96"/>
-    <mtx name="cedilla" width="485" lsb="46"/>
-    <mtx name="cent" width="1183" lsb="156"/>
-    <mtx name="circumflex" width="836" lsb="46"/>
-    <mtx name="circumflex.cap" width="815" lsb="47"/>
-    <mtx name="colon" width="602" lsb="146"/>
-    <mtx name="comma" width="602" lsb="150"/>
-    <mtx name="commaaccent" width="358" lsb="39"/>
-    <mtx name="copyright" width="2129" lsb="193"/>
-    <mtx name="currency" width="1527" lsb="198"/>
-    <mtx name="d" width="1237" lsb="96"/>
-    <mtx name="dagger" width="1026" lsb="123"/>
-    <mtx name="daggerdbl" width="1026" lsb="123"/>
-    <mtx name="dcaron" width="1648" lsb="96"/>
-    <mtx name="dcroat" width="1237" lsb="96"/>
-    <mtx name="degree" width="912" lsb="115"/>
-    <mtx name="dieresis" width="863" lsb="59"/>
-    <mtx name="dieresis.cap" width="893" lsb="49"/>
-    <mtx name="divide" width="1393" lsb="228"/>
-    <mtx name="dollar" width="1372" lsb="231"/>
-    <mtx name="dotaccent" width="403" lsb="49"/>
-    <mtx name="dotaccent.cap" width="403" lsb="51"/>
-    <mtx name="dotlessi" width="606" lsb="192"/>
-    <mtx name="dotlessj" width="574" lsb="-79"/>
-    <mtx name="e" width="1123" lsb="96"/>
-    <mtx name="eacute" width="1123" lsb="96"/>
-    <mtx name="ebreve" width="1123" lsb="96"/>
-    <mtx name="ecaron" width="1123" lsb="96"/>
-    <mtx name="ecircumflex" width="1123" lsb="96"/>
-    <mtx name="edieresis" width="1123" lsb="96"/>
-    <mtx name="edotaccent" width="1123" lsb="96"/>
-    <mtx name="egrave" width="1123" lsb="96"/>
-    <mtx name="eight" width="1307" lsb="151"/>
-    <mtx name="ellipsis" width="2047" lsb="186"/>
-    <mtx name="emacron" width="1123" lsb="96"/>
-    <mtx name="emdash" width="2343" lsb="239"/>
-    <mtx name="endash" width="1692" lsb="239"/>
-    <mtx name="eng" width="1279" lsb="175"/>
-    <mtx name="eogonek" width="1123" lsb="96"/>
-    <mtx name="equal" width="1399" lsb="241"/>
-    <mtx name="estimated" width="1373" lsb="103"/>
-    <mtx name="eth" width="1190" lsb="94"/>
-    <mtx name="exclam" width="602" lsb="146"/>
-    <mtx name="exclamdbl" width="1386" lsb="187"/>
-    <mtx name="exclamdown" width="602" lsb="146"/>
-    <mtx name="f" width="811" lsb="74"/>
-    <mtx name="f_f" width="1622" lsb="74"/>
-    <mtx name="f_f_i" width="2228" lsb="74"/>
-    <mtx name="f_f_l" width="2235" lsb="74"/>
-    <mtx name="f_i" width="1417" lsb="74"/>
-    <mtx name="f_l" width="1424" lsb="74"/>
-    <mtx name="ffi_dflt" width="2228" lsb="74"/>
-    <mtx name="fi_trk" width="1417" lsb="74"/>
-    <mtx name="five" width="1227" lsb="203"/>
-    <mtx name="florin" width="1169" lsb="216"/>
-    <mtx name="four" width="1339" lsb="115"/>
-    <mtx name="foursuperior" width="1151" lsb="106"/>
-    <mtx name="fraction" width="1026" lsb="142"/>
-    <mtx name="g" width="1217" lsb="109"/>
-    <mtx name="gbreve" width="1217" lsb="109"/>
-    <mtx name="gcircumflex" width="1217" lsb="109"/>
-    <mtx name="gcommaaccent" width="1217" lsb="109"/>
-    <mtx name="gdotaccent" width="1217" lsb="109"/>
-    <mtx name="germandbls" width="1268" lsb="35"/>
-    <mtx name="grave" width="595" lsb="49"/>
-    <mtx name="grave.cap" width="597" lsb="49"/>
-    <mtx name="greater" width="1368" lsb="233"/>
-    <mtx name="greaterequal" width="1368" lsb="237"/>
-    <mtx name="guillemotleft" width="1936" lsb="244"/>
-    <mtx name="guillemotright" width="1936" lsb="258"/>
-    <mtx name="guilsinglleft" width="1204" lsb="244"/>
-    <mtx name="guilsinglright" width="1204" lsb="258"/>
-    <mtx name="h" width="1289" lsb="175"/>
-    <mtx name="hbar" width="1289" lsb="35"/>
-    <mtx name="hcircumflex" width="1289" lsb="175"/>
-    <mtx name="hungarumlaut" width="1035" lsb="41"/>
-    <mtx name="hungarumlaut.cap" width="962" lsb="55"/>
-    <mtx name="hyphen" width="1350" lsb="249"/>
-    <mtx name="i" width="606" lsb="154"/>
-    <mtx name="i.cy" width="606" lsb="154"/>
-    <mtx name="i.dot" width="606" lsb="154"/>
-    <mtx name="i.uc" width="640" lsb="179"/>
-    <mtx name="iacute" width="606" lsb="172"/>
-    <mtx name="ibreve" width="606" lsb="-42"/>
-    <mtx name="icircumflex" width="606" lsb="-71"/>
-    <mtx name="idieresis" width="606" lsb="-56"/>
-    <mtx name="igrave" width="606" lsb="-82"/>
-    <mtx name="ij" width="1180" lsb="154"/>
-    <mtx name="imacron" width="606" lsb="30"/>
-    <mtx name="infinity" width="1804" lsb="73"/>
-    <mtx name="integral" width="1042" lsb="110"/>
-    <mtx name="iogonek" width="606" lsb="22"/>
-    <mtx name="itilde" width="606" lsb="-116"/>
-    <mtx name="j" width="574" lsb="-79"/>
-    <mtx name="jcircumflex" width="574" lsb="-79"/>
-    <mtx name="k" width="1163" lsb="167"/>
-    <mtx name="kcommaaccent" width="1163" lsb="167"/>
-    <mtx name="kgreenlandic" width="1169" lsb="180"/>
-    <mtx name="l" width="613" lsb="196"/>
-    <mtx name="lacute" width="631" lsb="183"/>
-    <mtx name="lcaron" width="790" lsb="196"/>
-    <mtx name="lcommaaccent" width="613" lsb="173"/>
-    <mtx name="ldot" width="1026" lsb="196"/>
-    <mtx name="less" width="1368" lsb="167"/>
-    <mtx name="lessequal" width="1368" lsb="159"/>
-    <mtx name="logicalnot" width="1470" lsb="239"/>
-    <mtx name="lozenge" width="1175" lsb="49"/>
-    <mtx name="lslash" width="613" lsb="49"/>
-    <mtx name="m" width="1972" lsb="175"/>
-    <mtx name="macron" width="647" lsb="49"/>
-    <mtx name="macron.cap" width="647" lsb="49"/>
-    <mtx name="minus" width="1350" lsb="249"/>
-    <mtx name="minute" width="682" lsb="189"/>
-    <mtx name="mu" width="1360" lsb="209"/>
-    <mtx name="multiply" width="1370" lsb="233"/>
-    <mtx name="n" width="1279" lsb="175"/>
-    <mtx name="nacute" width="1279" lsb="175"/>
-    <mtx name="napostrophe" width="1279" lsb="175"/>
-    <mtx name="nbspace" width="655" lsb="0"/>
-    <mtx name="ncaron" width="1279" lsb="175"/>
-    <mtx name="ncommaaccent" width="1279" lsb="175"/>
-    <mtx name="nine" width="1399" lsb="175"/>
-    <mtx name="notequal" width="1399" lsb="241"/>
-    <mtx name="ntilde" width="1279" lsb="175"/>
-    <mtx name="numbersign" width="1563" lsb="206"/>
-    <mtx name="o" width="1213" lsb="95"/>
-    <mtx name="oacute" width="1213" lsb="95"/>
-    <mtx name="obreve" width="1213" lsb="95"/>
-    <mtx name="ocircumflex" width="1213" lsb="95"/>
-    <mtx name="odieresis" width="1213" lsb="95"/>
-    <mtx name="oe" width="1920" lsb="95"/>
-    <mtx name="ogonek" width="640" lsb="51"/>
-    <mtx name="ograve" width="1213" lsb="95"/>
-    <mtx name="ohungarumlaut" width="1213" lsb="95"/>
-    <mtx name="omacron" width="1213" lsb="95"/>
-    <mtx name="one" width="918" lsb="129"/>
-    <mtx name="onehalf" width="2479" lsb="244"/>
-    <mtx name="onequarter" width="2479" lsb="244"/>
-    <mtx name="onesuperior" width="1026" lsb="221"/>
-    <mtx name="ordfeminine" width="1034" lsb="125"/>
-    <mtx name="ordmasculine" width="1033" lsb="110"/>
-    <mtx name="oslash" width="1213" lsb="95"/>
-    <mtx name="otilde" width="1213" lsb="95"/>
-    <mtx name="p" width="1238" lsb="165"/>
-    <mtx name="paragraph" width="1320" lsb="82"/>
-    <mtx name="parenleft" width="846" lsb="119"/>
-    <mtx name="parenright" width="846" lsb="127"/>
-    <mtx name="partialdiff" width="1367" lsb="164"/>
-    <mtx name="percent" width="1962" lsb="74"/>
-    <mtx name="period" width="602" lsb="146"/>
-    <mtx name="periodcentered" width="602" lsb="146"/>
-    <mtx name="perthousand" width="2800" lsb="74"/>
-    <mtx name="pi" width="1556" lsb="119"/>
-    <mtx name="plus" width="1393" lsb="228"/>
-    <mtx name="plusminus" width="1393" lsb="228"/>
-    <mtx name="product" width="1657" lsb="137"/>
-    <mtx name="q" width="1237" lsb="96"/>
-    <mtx name="question" width="1047" lsb="120"/>
-    <mtx name="questiondown" width="1047" lsb="112"/>
-    <mtx name="quotedbl" width="1284" lsb="264"/>
-    <mtx name="quotedblbase" width="1029" lsb="110"/>
-    <mtx name="quotedblleft" width="1029" lsb="97"/>
-    <mtx name="quotedblright" width="1029" lsb="110"/>
-    <mtx name="quoteleft" width="520" lsb="97"/>
-    <mtx name="quotereversed" width="520" lsb="97"/>
-    <mtx name="quoteright" width="520" lsb="110"/>
-    <mtx name="quotesinglbase" width="520" lsb="110"/>
-    <mtx name="quotesingle" width="772" lsb="264"/>
-    <mtx name="r" width="819" lsb="167"/>
-    <mtx name="racute" width="819" lsb="167"/>
-    <mtx name="radical" width="1602" lsb="83"/>
-    <mtx name="rcaron" width="819" lsb="117"/>
-    <mtx name="rcommaaccent" width="819" lsb="156"/>
-    <mtx name="registered" width="2129" lsb="193"/>
-    <mtx name="ring" width="731" lsb="44"/>
-    <mtx name="ring.cap" width="731" lsb="44"/>
-    <mtx name="s" width="977" lsb="111"/>
-    <mtx name="sacute" width="977" lsb="111"/>
-    <mtx name="scaron" width="977" lsb="111"/>
-    <mtx name="scedilla" width="977" lsb="111"/>
-    <mtx name="scircumflex" width="977" lsb="111"/>
-    <mtx name="second" width="1092" lsb="189"/>
-    <mtx name="section" width="1358" lsb="214"/>
-    <mtx name="semicolon" width="602" lsb="146"/>
-    <mtx name="seven" width="1241" lsb="149"/>
-    <mtx name="six" width="1373" lsb="159"/>
-    <mtx name="slash" width="854" lsb="41"/>
-    <mtx name="space" width="655" lsb="0"/>
-    <mtx name="sterling" width="1532" lsb="145"/>
-    <mtx name="summation" width="1593" lsb="226"/>
-    <mtx name="t" width="850" lsb="79"/>
-    <mtx name="tbar" width="850" lsb="79"/>
-    <mtx name="tcaron" width="1047" lsb="79"/>
-    <mtx name="thorn" width="1238" lsb="165"/>
-    <mtx name="three" width="1147" lsb="103"/>
-    <mtx name="threequarters" width="2479" lsb="114"/>
-    <mtx name="threesuperior" width="1194" lsb="261"/>
-    <mtx name="tilde" width="927" lsb="46"/>
-    <mtx name="tilde.cap" width="927" lsb="46"/>
-    <mtx name="trademark" width="2218" lsb="176"/>
-    <mtx name="two" width="1269" lsb="146"/>
-    <mtx name="twosuperior" width="1194" lsb="174"/>
-    <mtx name="u" width="1249" lsb="169"/>
-    <mtx name="uacute" width="1249" lsb="169"/>
-    <mtx name="ubreve" width="1249" lsb="169"/>
-    <mtx name="ucircumflex" width="1249" lsb="169"/>
-    <mtx name="udieresis" width="1249" lsb="169"/>
-    <mtx name="ugrave" width="1249" lsb="169"/>
-    <mtx name="uhungarumlaut" width="1249" lsb="169"/>
-    <mtx name="umacron" width="1249" lsb="169"/>
-    <mtx name="underscore" width="1692" lsb="-40"/>
-    <mtx name="uni0001" width="0" lsb="0"/>
-    <mtx name="uni0002" width="0" lsb="0"/>
-    <mtx name="uni0003" width="0" lsb="0"/>
-    <mtx name="uni0005" width="0" lsb="0"/>
-    <mtx name="uni0006" width="0" lsb="0"/>
-    <mtx name="uni0007" width="0" lsb="0"/>
-    <mtx name="uni0008" width="0" lsb="0"/>
-    <mtx name="uni0015" width="0" lsb="0"/>
-    <mtx name="uni0016" width="0" lsb="0"/>
-    <mtx name="uni0017" width="0" lsb="0"/>
-    <mtx name="uni0018" width="0" lsb="0"/>
-    <mtx name="uni0019" width="0" lsb="0"/>
-    <mtx name="uni0162" width="1303" lsb="62"/>
-    <mtx name="uni0163" width="850" lsb="79"/>
-    <mtx name="uni0218" width="1142" lsb="129"/>
-    <mtx name="uni0219" width="977" lsb="111"/>
-    <mtx name="uni021A" width="1303" lsb="62"/>
-    <mtx name="uni021B" width="850" lsb="79"/>
-    <mtx name="uni02c9" width="647" lsb="49"/>
-    <mtx name="uni0394" width="1577" lsb="54"/>
-    <mtx name="uni03A9" width="1804" lsb="193"/>
-    <mtx name="uni03BC" width="1360" lsb="209"/>
-    <mtx name="uni1E02" width="1339" lsb="193"/>
-    <mtx name="uni1E03" width="1238" lsb="165"/>
-    <mtx name="uni1E0A" width="1472" lsb="193"/>
-    <mtx name="uni1E0B" width="1237" lsb="96"/>
-    <mtx name="uni1E1E" width="1083" lsb="193"/>
-    <mtx name="uni1E1F" width="811" lsb="74"/>
-    <mtx name="uni1E40" width="1923" lsb="133"/>
-    <mtx name="uni1E41" width="1972" lsb="175"/>
-    <mtx name="uni1E56" width="1270" lsb="193"/>
-    <mtx name="uni1E57" width="1238" lsb="165"/>
-    <mtx name="uni1E60" width="1132" lsb="124"/>
-    <mtx name="uni1E61" width="977" lsb="111"/>
-    <mtx name="uni1E6A" width="1303" lsb="62"/>
-    <mtx name="uni1E6B" width="850" lsb="79"/>
-    <mtx name="uni2113" width="1240" lsb="0"/>
-    <mtx name="uni2215" width="854" lsb="-57"/>
-    <mtx name="uni2219" width="602" lsb="115"/>
-    <mtx name="uogonek" width="1249" lsb="169"/>
-    <mtx name="uring" width="1249" lsb="169"/>
-    <mtx name="utilde" width="1249" lsb="169"/>
-    <mtx name="v" width="1113" lsb="18"/>
-    <mtx name="w" width="1632" lsb="20"/>
-    <mtx name="wacute" width="1632" lsb="20"/>
-    <mtx name="wcircumflex" width="1632" lsb="20"/>
-    <mtx name="wdieresis" width="1632" lsb="20"/>
-    <mtx name="wgrave" width="1632" lsb="20"/>
-    <mtx name="x" width="1134" lsb="46"/>
-    <mtx name="y" width="1116" lsb="43"/>
-    <mtx name="yacute" width="1116" lsb="43"/>
-    <mtx name="ycircumflex" width="1116" lsb="43"/>
-    <mtx name="ydieresis" width="1116" lsb="43"/>
-    <mtx name="yen" width="1532" lsb="163"/>
-    <mtx name="ygrave" width="1116" lsb="43"/>
-    <mtx name="z" width="1061" lsb="81"/>
-    <mtx name="zacute" width="1061" lsb="81"/>
-    <mtx name="zcaron" width="1061" lsb="81"/>
-    <mtx name="zdotaccent" width="1061" lsb="81"/>
-    <mtx name="zero" width="1386" lsb="147"/>
+    <mtx name=".notdef" width="472" lsb="0"/>
+    <mtx name="Acute accent" width="594" lsb="0"/>
+    <mtx name="Ampersand" width="1532" lsb="0"/>
+    <mtx name="Apostrophe" width="772" lsb="0"/>
+    <mtx name="Asterisk" width="1208" lsb="0"/>
+    <mtx name="At sign" width="2218" lsb="0"/>
+    <mtx name="Backslash" width="854" lsb="0"/>
+    <mtx name="Broken bar" width="855" lsb="0"/>
+    <mtx name="Cedilla" width="485" lsb="0"/>
+    <mtx name="Cent sign" width="1183" lsb="0"/>
+    <mtx name="Circumflex accent" width="1363" lsb="0"/>
+    <mtx name="Colon" width="602" lsb="0"/>
+    <mtx name="Comma" width="602" lsb="0"/>
+    <mtx name="Copyright sign" width="2129" lsb="0"/>
+    <mtx name="Currency sign" width="1527" lsb="0"/>
+    <mtx name="Degree symbol" width="912" lsb="0"/>
+    <mtx name="Diaeresis" width="863" lsb="0"/>
+    <mtx name="Digit Eight" width="1307" lsb="0"/>
+    <mtx name="Digit Five" width="1227" lsb="0"/>
+    <mtx name="Digit Four" width="1339" lsb="0"/>
+    <mtx name="Digit Nine" width="1399" lsb="0"/>
+    <mtx name="Digit One" width="918" lsb="0"/>
+    <mtx name="Digit Seven" width="1241" lsb="0"/>
+    <mtx name="Digit Six" width="1373" lsb="0"/>
+    <mtx name="Digit Three" width="1147" lsb="0"/>
+    <mtx name="Digit Two" width="1269" lsb="0"/>
+    <mtx name="Digit Zero" width="1386" lsb="0"/>
+    <mtx name="Division sign" width="1393" lsb="0"/>
+    <mtx name="Dollar sign" width="1372" lsb="0"/>
+    <mtx name="Equal sign" width="1399" lsb="0"/>
+    <mtx name="Exclamation mark" width="602" lsb="0"/>
+    <mtx name="Feminine Ordinal Indicator" width="1034" lsb="0"/>
+    <mtx name="Full stop" width="602" lsb="0"/>
+    <mtx name="Grave accent" width="595" lsb="0"/>
+    <mtx name="Greater-than sign" width="1368" lsb="0"/>
+    <mtx name="Hyphen-minus" width="1350" lsb="0"/>
+    <mtx name="Inverted Exclamation Mark" width="602" lsb="0"/>
+    <mtx name="Inverted Question Mark" width="1047" lsb="0"/>
+    <mtx name="Latin Capital Letter A" width="1407" lsb="0"/>
+    <mtx name="Latin Capital Letter A with acute" width="1407" lsb="0"/>
+    <mtx name="Latin Capital Letter A with breve" width="1407" lsb="0"/>
+    <mtx name="Latin Capital Letter A with circumflex" width="1407" lsb="0"/>
+    <mtx name="Latin Capital Letter A with diaeresis" width="1407" lsb="0"/>
+    <mtx name="Latin Capital Letter A with grave" width="1407" lsb="0"/>
+    <mtx name="Latin Capital Letter A with macron" width="1407" lsb="0"/>
+    <mtx name="Latin Capital Letter A with ogonek" width="1407" lsb="0"/>
+    <mtx name="Latin Capital Letter A with ring above" width="1407" lsb="0"/>
+    <mtx name="Latin Capital Letter A with tilde" width="1407" lsb="0"/>
+    <mtx name="Latin Capital Letter B" width="1339" lsb="0"/>
+    <mtx name="Latin Capital Letter C" width="1313" lsb="0"/>
+    <mtx name="Latin Capital Letter C with acute" width="1313" lsb="0"/>
+    <mtx name="Latin Capital Letter C with caron" width="1313" lsb="0"/>
+    <mtx name="Latin Capital Letter C with cedilla" width="1313" lsb="0"/>
+    <mtx name="Latin Capital Letter C with circumflex" width="1313" lsb="0"/>
+    <mtx name="Latin Capital Letter C with dot above" width="1313" lsb="0"/>
+    <mtx name="Latin Capital Letter D" width="1472" lsb="0"/>
+    <mtx name="Latin Capital Letter D with caron" width="1472" lsb="0"/>
+    <mtx name="Latin Capital Letter D with stroke" width="1472" lsb="0"/>
+    <mtx name="Latin Capital Letter E" width="1217" lsb="0"/>
+    <mtx name="Latin Capital Letter E with acute" width="1217" lsb="0"/>
+    <mtx name="Latin Capital Letter E with breve" width="1217" lsb="0"/>
+    <mtx name="Latin Capital Letter E with caron" width="1217" lsb="0"/>
+    <mtx name="Latin Capital Letter E with circumflex" width="1217" lsb="0"/>
+    <mtx name="Latin Capital Letter E with diaeresis" width="1217" lsb="0"/>
+    <mtx name="Latin Capital Letter E with dot above" width="1217" lsb="0"/>
+    <mtx name="Latin Capital Letter E with grave" width="1217" lsb="0"/>
+    <mtx name="Latin Capital Letter E with macron" width="1217" lsb="0"/>
+    <mtx name="Latin Capital Letter E with ogonek" width="1217" lsb="0"/>
+    <mtx name="Latin Capital Letter Eng" width="1584" lsb="0"/>
+    <mtx name="Latin Capital Letter Eth" width="1472" lsb="0"/>
+    <mtx name="Latin Capital Letter F" width="1083" lsb="0"/>
+    <mtx name="Latin Capital Letter G" width="1433" lsb="0"/>
+    <mtx name="Latin Capital Letter G with breve" width="1433" lsb="0"/>
+    <mtx name="Latin Capital Letter G with cedilla" width="1433" lsb="0"/>
+    <mtx name="Latin Capital Letter G with circumflex" width="1433" lsb="0"/>
+    <mtx name="Latin Capital Letter G with dot above" width="1433" lsb="0"/>
+    <mtx name="Latin Capital Letter H" width="1552" lsb="0"/>
+    <mtx name="Latin Capital Letter H with circumflex" width="1552" lsb="0"/>
+    <mtx name="Latin Capital Letter H with stroke" width="1563" lsb="0"/>
+    <mtx name="Latin Capital Letter I" width="640" lsb="0"/>
+    <mtx name="Latin Capital Letter I with acute" width="640" lsb="0"/>
+    <mtx name="Latin Capital Letter I with breve" width="640" lsb="0"/>
+    <mtx name="Latin Capital Letter I with circumflex" width="640" lsb="0"/>
+    <mtx name="Latin Capital Letter I with diaeresis" width="640" lsb="0"/>
+    <mtx name="Latin Capital Letter I with dot above" width="640" lsb="0"/>
+    <mtx name="Latin Capital Letter I with grave" width="640" lsb="0"/>
+    <mtx name="Latin Capital Letter I with macron" width="640" lsb="0"/>
+    <mtx name="Latin Capital Letter I with ogonek" width="640" lsb="0"/>
+    <mtx name="Latin Capital Letter I with tilde" width="640" lsb="0"/>
+    <mtx name="Latin Capital Letter J" width="713" lsb="0"/>
+    <mtx name="Latin Capital Letter J with circumflex" width="713" lsb="0"/>
+    <mtx name="Latin Capital Letter K" width="1371" lsb="0"/>
+    <mtx name="Latin Capital Letter K with cedilla" width="1371" lsb="0"/>
+    <mtx name="Latin Capital Letter L" width="1080" lsb="0"/>
+    <mtx name="Latin Capital Letter L with acute" width="1080" lsb="0"/>
+    <mtx name="Latin Capital Letter L with caron" width="1080" lsb="0"/>
+    <mtx name="Latin Capital Letter L with cedilla" width="1080" lsb="0"/>
+    <mtx name="Latin Capital Letter L with middle dot" width="1357" lsb="0"/>
+    <mtx name="Latin Capital Letter L with stroke" width="1080" lsb="0"/>
+    <mtx name="Latin Capital Letter M" width="1923" lsb="0"/>
+    <mtx name="Latin Capital Letter N" width="1556" lsb="0"/>
+    <mtx name="Latin Capital Letter N with acute" width="1556" lsb="0"/>
+    <mtx name="Latin Capital Letter N with caron" width="1556" lsb="0"/>
+    <mtx name="Latin Capital Letter N with cedilla" width="1556" lsb="0"/>
+    <mtx name="Latin Capital Letter N with tilde" width="1556" lsb="0"/>
+    <mtx name="Latin Capital Letter O" width="1569" lsb="0"/>
+    <mtx name="Latin Capital Letter O with acute" width="1569" lsb="0"/>
+    <mtx name="Latin Capital Letter O with breve" width="1569" lsb="0"/>
+    <mtx name="Latin Capital Letter O with circumflex" width="1569" lsb="0"/>
+    <mtx name="Latin Capital Letter O with diaeresis" width="1569" lsb="0"/>
+    <mtx name="Latin Capital Letter O with double acute" width="1569" lsb="0"/>
+    <mtx name="Latin Capital Letter O with grave" width="1569" lsb="0"/>
+    <mtx name="Latin Capital Letter O with macron" width="1569" lsb="0"/>
+    <mtx name="Latin Capital Letter O with stroke" width="1569" lsb="0"/>
+    <mtx name="Latin Capital Letter O with tilde" width="1569" lsb="0"/>
+    <mtx name="Latin Capital Letter P" width="1270" lsb="0"/>
+    <mtx name="Latin Capital Letter Q" width="1569" lsb="0"/>
+    <mtx name="Latin Capital Letter R" width="1367" lsb="0"/>
+    <mtx name="Latin Capital Letter R with acute" width="1367" lsb="0"/>
+    <mtx name="Latin Capital Letter R with caron" width="1367" lsb="0"/>
+    <mtx name="Latin Capital Letter R with cedilla" width="1367" lsb="0"/>
+    <mtx name="Latin Capital Letter S" width="1132" lsb="0"/>
+    <mtx name="Latin Capital Letter S with acute" width="1132" lsb="0"/>
+    <mtx name="Latin Capital Letter S with caron" width="1132" lsb="0"/>
+    <mtx name="Latin Capital Letter S with cedilla" width="1132" lsb="0"/>
+    <mtx name="Latin Capital Letter S with circumflex" width="1132" lsb="0"/>
+    <mtx name="Latin Capital Letter S with comma below" width="1142" lsb="0"/>
+    <mtx name="Latin Capital Letter T" width="1303" lsb="0"/>
+    <mtx name="Latin Capital Letter T with caron" width="1303" lsb="0"/>
+    <mtx name="Latin Capital Letter T with cedilla" width="1303" lsb="0"/>
+    <mtx name="Latin Capital Letter T with comma below" width="1303" lsb="0"/>
+    <mtx name="Latin Capital Letter T with stroke" width="1303" lsb="0"/>
+    <mtx name="Latin Capital Letter Thorn" width="1262" lsb="0"/>
+    <mtx name="Latin Capital Letter U" width="1463" lsb="0"/>
+    <mtx name="Latin Capital Letter U with acute" width="1463" lsb="0"/>
+    <mtx name="Latin Capital Letter U with breve" width="1463" lsb="0"/>
+    <mtx name="Latin Capital Letter U with circumflex" width="1463" lsb="0"/>
+    <mtx name="Latin Capital Letter U with diaeresis" width="1463" lsb="0"/>
+    <mtx name="Latin Capital Letter U with double acute" width="1463" lsb="0"/>
+    <mtx name="Latin Capital Letter U with grave" width="1463" lsb="0"/>
+    <mtx name="Latin Capital Letter U with macron" width="1463" lsb="0"/>
+    <mtx name="Latin Capital Letter U with ogonek" width="1463" lsb="0"/>
+    <mtx name="Latin Capital Letter U with ring above" width="1463" lsb="0"/>
+    <mtx name="Latin Capital Letter U with tilde" width="1463" lsb="0"/>
+    <mtx name="Latin Capital Letter V" width="1355" lsb="0"/>
+    <mtx name="Latin Capital Letter W" width="1918" lsb="0"/>
+    <mtx name="Latin Capital Letter W with circumflex" width="1918" lsb="0"/>
+    <mtx name="Latin Capital Letter X" width="1314" lsb="0"/>
+    <mtx name="Latin Capital Letter Y" width="1264" lsb="0"/>
+    <mtx name="Latin Capital Letter Y with acute" width="1264" lsb="0"/>
+    <mtx name="Latin Capital Letter Y with circumflex" width="1264" lsb="0"/>
+    <mtx name="Latin Capital Letter Y with diaeresis" width="1264" lsb="0"/>
+    <mtx name="Latin Capital Letter Z" width="1294" lsb="0"/>
+    <mtx name="Latin Capital Letter Z with acute" width="1294" lsb="0"/>
+    <mtx name="Latin Capital Letter Z with caron" width="1294" lsb="0"/>
+    <mtx name="Latin Capital Letter Z with dot above" width="1294" lsb="0"/>
+    <mtx name="Latin Capital Letter Æ" width="1860" lsb="0"/>
+    <mtx name="Latin Capital Letter Æ with acute" width="1860" lsb="0"/>
+    <mtx name="Latin Capital Ligature IJ" width="1353" lsb="0"/>
+    <mtx name="Latin Capital Ligature OE" width="2063" lsb="0"/>
+    <mtx name="Latin Small Letter A" width="1131" lsb="0"/>
+    <mtx name="Latin Small Letter A with acute" width="1131" lsb="0"/>
+    <mtx name="Latin Small Letter A with breve" width="1131" lsb="0"/>
+    <mtx name="Latin Small Letter A with circumflex" width="1131" lsb="0"/>
+    <mtx name="Latin Small Letter A with diaeresis" width="1131" lsb="0"/>
+    <mtx name="Latin Small Letter A with grave" width="1131" lsb="0"/>
+    <mtx name="Latin Small Letter A with macron" width="1131" lsb="0"/>
+    <mtx name="Latin Small Letter A with ogonek" width="1131" lsb="0"/>
+    <mtx name="Latin Small Letter A with ring above" width="1131" lsb="0"/>
+    <mtx name="Latin Small Letter A with tilde" width="1131" lsb="0"/>
+    <mtx name="Latin Small Letter B" width="1238" lsb="0"/>
+    <mtx name="Latin Small Letter C" width="1002" lsb="0"/>
+    <mtx name="Latin Small Letter C with acute" width="1002" lsb="0"/>
+    <mtx name="Latin Small Letter C with caron" width="1002" lsb="0"/>
+    <mtx name="Latin Small Letter C with cedilla" width="1002" lsb="0"/>
+    <mtx name="Latin Small Letter C with circumflex" width="1002" lsb="0"/>
+    <mtx name="Latin Small Letter C with dot above" width="1002" lsb="0"/>
+    <mtx name="Latin Small Letter D" width="1237" lsb="0"/>
+    <mtx name="Latin Small Letter D with caron" width="1648" lsb="0"/>
+    <mtx name="Latin Small Letter D with stroke" width="1237" lsb="0"/>
+    <mtx name="Latin Small Letter Dotless J" width="574" lsb="0"/>
+    <mtx name="Latin Small Letter E" width="1123" lsb="0"/>
+    <mtx name="Latin Small Letter E with acute" width="1123" lsb="0"/>
+    <mtx name="Latin Small Letter E with breve" width="1123" lsb="0"/>
+    <mtx name="Latin Small Letter E with caron" width="1123" lsb="0"/>
+    <mtx name="Latin Small Letter E with circumflex" width="1123" lsb="0"/>
+    <mtx name="Latin Small Letter E with diaeresis" width="1123" lsb="0"/>
+    <mtx name="Latin Small Letter E with dot above" width="1123" lsb="0"/>
+    <mtx name="Latin Small Letter E with grave" width="1123" lsb="0"/>
+    <mtx name="Latin Small Letter E with macron" width="1123" lsb="0"/>
+    <mtx name="Latin Small Letter E with ogonek" width="1123" lsb="0"/>
+    <mtx name="Latin Small Letter Eng" width="1279" lsb="0"/>
+    <mtx name="Latin Small Letter Eth" width="1190" lsb="0"/>
+    <mtx name="Latin Small Letter F" width="811" lsb="0"/>
+    <mtx name="Latin Small Letter F with hook" width="1169" lsb="0"/>
+    <mtx name="Latin Small Letter G" width="1217" lsb="0"/>
+    <mtx name="Latin Small Letter G with breve" width="1217" lsb="0"/>
+    <mtx name="Latin Small Letter G with cedilla" width="1217" lsb="0"/>
+    <mtx name="Latin Small Letter G with circumflex" width="1217" lsb="0"/>
+    <mtx name="Latin Small Letter G with dot above" width="1217" lsb="0"/>
+    <mtx name="Latin Small Letter H" width="1289" lsb="0"/>
+    <mtx name="Latin Small Letter H with circumflex" width="1289" lsb="0"/>
+    <mtx name="Latin Small Letter H with stroke" width="1289" lsb="0"/>
+    <mtx name="Latin Small Letter I" width="606" lsb="0"/>
+    <mtx name="Latin Small Letter I with acute" width="606" lsb="0"/>
+    <mtx name="Latin Small Letter I with breve" width="606" lsb="0"/>
+    <mtx name="Latin Small Letter I with circumflex" width="606" lsb="0"/>
+    <mtx name="Latin Small Letter I with diaeresis" width="606" lsb="0"/>
+    <mtx name="Latin Small Letter I with grave" width="606" lsb="0"/>
+    <mtx name="Latin Small Letter I with macron" width="606" lsb="0"/>
+    <mtx name="Latin Small Letter I with ogonek" width="606" lsb="0"/>
+    <mtx name="Latin Small Letter I with tilde" width="606" lsb="0"/>
+    <mtx name="Latin Small Letter J" width="574" lsb="0"/>
+    <mtx name="Latin Small Letter J with circumflex" width="574" lsb="0"/>
+    <mtx name="Latin Small Letter K" width="1163" lsb="0"/>
+    <mtx name="Latin Small Letter K with cedilla" width="1163" lsb="0"/>
+    <mtx name="Latin Small Letter Kra" width="1169" lsb="0"/>
+    <mtx name="Latin Small Letter L" width="613" lsb="0"/>
+    <mtx name="Latin Small Letter L with acute" width="631" lsb="0"/>
+    <mtx name="Latin Small Letter L with caron" width="790" lsb="0"/>
+    <mtx name="Latin Small Letter L with cedilla" width="613" lsb="0"/>
+    <mtx name="Latin Small Letter L with middle dot" width="1026" lsb="0"/>
+    <mtx name="Latin Small Letter L with stroke" width="613" lsb="0"/>
+    <mtx name="Latin Small Letter M" width="1972" lsb="0"/>
+    <mtx name="Latin Small Letter N" width="1279" lsb="0"/>
+    <mtx name="Latin Small Letter N preceded by apostrophe[1]" width="1279" lsb="0"/>
+    <mtx name="Latin Small Letter N with acute" width="1279" lsb="0"/>
+    <mtx name="Latin Small Letter N with caron" width="1279" lsb="0"/>
+    <mtx name="Latin Small Letter N with cedilla" width="1279" lsb="0"/>
+    <mtx name="Latin Small Letter N with tilde" width="1279" lsb="0"/>
+    <mtx name="Latin Small Letter O" width="1213" lsb="0"/>
+    <mtx name="Latin Small Letter O with acute" width="1213" lsb="0"/>
+    <mtx name="Latin Small Letter O with breve" width="1213" lsb="0"/>
+    <mtx name="Latin Small Letter O with circumflex" width="1213" lsb="0"/>
+    <mtx name="Latin Small Letter O with diaeresis" width="1213" lsb="0"/>
+    <mtx name="Latin Small Letter O with double acute" width="1213" lsb="0"/>
+    <mtx name="Latin Small Letter O with grave" width="1213" lsb="0"/>
+    <mtx name="Latin Small Letter O with macron" width="1213" lsb="0"/>
+    <mtx name="Latin Small Letter O with stroke" width="1213" lsb="0"/>
+    <mtx name="Latin Small Letter O with tilde" width="1213" lsb="0"/>
+    <mtx name="Latin Small Letter P" width="1238" lsb="0"/>
+    <mtx name="Latin Small Letter Q" width="1237" lsb="0"/>
+    <mtx name="Latin Small Letter R" width="819" lsb="0"/>
+    <mtx name="Latin Small Letter R with acute" width="819" lsb="0"/>
+    <mtx name="Latin Small Letter R with caron" width="819" lsb="0"/>
+    <mtx name="Latin Small Letter R with cedilla" width="819" lsb="0"/>
+    <mtx name="Latin Small Letter S" width="977" lsb="0"/>
+    <mtx name="Latin Small Letter S with acute" width="977" lsb="0"/>
+    <mtx name="Latin Small Letter S with caron" width="977" lsb="0"/>
+    <mtx name="Latin Small Letter S with cedilla" width="977" lsb="0"/>
+    <mtx name="Latin Small Letter S with circumflex" width="977" lsb="0"/>
+    <mtx name="Latin Small Letter S with comma below" width="977" lsb="0"/>
+    <mtx name="Latin Small Letter T" width="850" lsb="0"/>
+    <mtx name="Latin Small Letter T with caron" width="1047" lsb="0"/>
+    <mtx name="Latin Small Letter T with cedilla" width="850" lsb="0"/>
+    <mtx name="Latin Small Letter T with comma below" width="850" lsb="0"/>
+    <mtx name="Latin Small Letter T with stroke" width="850" lsb="0"/>
+    <mtx name="Latin Small Letter Thorn" width="1238" lsb="0"/>
+    <mtx name="Latin Small Letter U" width="1249" lsb="0"/>
+    <mtx name="Latin Small Letter U with acute" width="1249" lsb="0"/>
+    <mtx name="Latin Small Letter U with breve" width="1249" lsb="0"/>
+    <mtx name="Latin Small Letter U with circumflex" width="1249" lsb="0"/>
+    <mtx name="Latin Small Letter U with diaeresis" width="1249" lsb="0"/>
+    <mtx name="Latin Small Letter U with double acute" width="1249" lsb="0"/>
+    <mtx name="Latin Small Letter U with grave" width="1249" lsb="0"/>
+    <mtx name="Latin Small Letter U with macron" width="1249" lsb="0"/>
+    <mtx name="Latin Small Letter U with ogonek" width="1249" lsb="0"/>
+    <mtx name="Latin Small Letter U with ring above" width="1249" lsb="0"/>
+    <mtx name="Latin Small Letter U with tilde" width="1249" lsb="0"/>
+    <mtx name="Latin Small Letter V" width="1113" lsb="0"/>
+    <mtx name="Latin Small Letter W" width="1632" lsb="0"/>
+    <mtx name="Latin Small Letter W with circumflex" width="1632" lsb="0"/>
+    <mtx name="Latin Small Letter X" width="1134" lsb="0"/>
+    <mtx name="Latin Small Letter Y" width="1116" lsb="0"/>
+    <mtx name="Latin Small Letter Y with acute" width="1116" lsb="0"/>
+    <mtx name="Latin Small Letter Y with circumflex" width="1116" lsb="0"/>
+    <mtx name="Latin Small Letter Y with diaeresis" width="1116" lsb="0"/>
+    <mtx name="Latin Small Letter Z" width="1061" lsb="0"/>
+    <mtx name="Latin Small Letter Z with acute" width="1061" lsb="0"/>
+    <mtx name="Latin Small Letter Z with caron" width="1061" lsb="0"/>
+    <mtx name="Latin Small Letter Z with dot above" width="1061" lsb="0"/>
+    <mtx name="Latin Small Letter dotless I" width="606" lsb="0"/>
+    <mtx name="Latin Small Letter sharp S" width="1268" lsb="0"/>
+    <mtx name="Latin Small Letter Æ" width="1780" lsb="0"/>
+    <mtx name="Latin Small Letter Æ with acute" width="1780" lsb="0"/>
+    <mtx name="Latin Small Ligature IJ" width="1180" lsb="0"/>
+    <mtx name="Latin Small Ligature OE" width="1920" lsb="0"/>
+    <mtx name="Left Curly Bracket" width="972" lsb="0"/>
+    <mtx name="Left Square Bracket" width="837" lsb="0"/>
+    <mtx name="Left parenthesis" width="846" lsb="0"/>
+    <mtx name="Left-pointing double angle quotation mark" width="1936" lsb="0"/>
+    <mtx name="Less-than sign" width="1368" lsb="0"/>
+    <mtx name="Low line" width="1692" lsb="0"/>
+    <mtx name="Macron" width="647" lsb="0"/>
+    <mtx name="Masculine ordinal indicator" width="1033" lsb="0"/>
+    <mtx name="Micro sign" width="1360" lsb="0"/>
+    <mtx name="Middle dot" width="602" lsb="0"/>
+    <mtx name="Multiplication sign" width="1370" lsb="0"/>
+    <mtx name="Not sign" width="1470" lsb="0"/>
+    <mtx name="Number sign, Hash tag" width="1563" lsb="0"/>
+    <mtx name="Percent sign" width="1962" lsb="0"/>
+    <mtx name="Pilcrow sign" width="1320" lsb="0"/>
+    <mtx name="Plus sign" width="1393" lsb="0"/>
+    <mtx name="Plus-minus sign" width="1393" lsb="0"/>
+    <mtx name="Pound sign" width="1532" lsb="0"/>
+    <mtx name="Question mark" width="1047" lsb="0"/>
+    <mtx name="Quotation mark" width="1284" lsb="0"/>
+    <mtx name="Registered sign" width="2129" lsb="0"/>
+    <mtx name="Right Curly Bracket" width="972" lsb="0"/>
+    <mtx name="Right Square Bracket" width="837" lsb="0"/>
+    <mtx name="Right parenthesis" width="846" lsb="0"/>
+    <mtx name="Right-pointing double angle quotation mark" width="1936" lsb="0"/>
+    <mtx name="Section sign" width="1358" lsb="0"/>
+    <mtx name="Semicolon" width="602" lsb="0"/>
+    <mtx name="Slash (Solidus)" width="854" lsb="0"/>
+    <mtx name="Space" width="655" lsb="0"/>
+    <mtx name="Superscript one" width="1026" lsb="0"/>
+    <mtx name="Superscript three" width="1194" lsb="0"/>
+    <mtx name="Superscript two" width="1194" lsb="0"/>
+    <mtx name="Tilde" width="1438" lsb="0"/>
+    <mtx name="Vertical bar" width="855" lsb="0"/>
+    <mtx name="Vulgar fraction one half" width="2479" lsb="0"/>
+    <mtx name="Vulgar fraction one quarter" width="2479" lsb="0"/>
+    <mtx name="Vulgar fraction three quarters" width="2479" lsb="0"/>
+    <mtx name="Yen sign" width="1532" lsb="0"/>
+    <mtx name="[name not found]" width="655" lsb="0"/>
   </hmtx>
 
 </ttFont>
